@@ -1,3 +1,4 @@
+#First run 'pip install pygame' in terminal of pycharm or VS Code then execute the below program
 from pygame import mixer
 from tkinter import Tk
 from tkinter import Label
